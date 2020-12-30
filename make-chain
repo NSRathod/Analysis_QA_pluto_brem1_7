@@ -1,0 +1,4 @@
+#Mon, 30 Mar 2020 15:20:24 +0000 (GMT) + 78957000 nsec
+# This file has been created automatically by BChain.C 
+  ECBBaseCXX = myClass.cxx
+ ECBBaseH   = myClass.h
